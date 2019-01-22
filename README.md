@@ -1,4 +1,4 @@
 # Misc Scripts
 
-* [newznab-tmux](https://github.com/jonnyboy/newznab-tmux)  
-updatedefault.sh - used to update defaults.sh from latest config.sh pull
+* Crypto
+mwgrinmanual.py - Used for manual download and upload of slate files from [MWGrinPool](https://www.mwgrinpool.com)  
