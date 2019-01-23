@@ -53,7 +53,7 @@ if args.get_unsigned is True and args.send_signed is True:
 	sys.exit(0)
 	
 if args.pool_user is None:
-	username = raw_input("   MWGrinPool Username: ")
+	username = input("   MWGrinPool Username: ")
 	prompted = True
 else:
 	username = args.pool_user
@@ -66,7 +66,7 @@ else:
 
 if args.get_unsigned is True or args.send_signed is True:
 	if args.file_name is None:
-		filename = raw_input("   File Name: ")
+		filename = input("   File Name: ")
 		prompted = True
 	else:
 		filename = args.file_name
