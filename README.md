@@ -1,7 +1,7 @@
 # Misc Scripts
 
 #### mwgrinmanual.py - Used for manual download and upload of slate files from [MWGrinPool](https://www.mwgrinpool.com)
-    
+    * Requirement: python3 and requests module
     * Run: mwgrinmanaul.py -h for help:
     
           --pool_user POOL_USER Username on MWGrinPool
