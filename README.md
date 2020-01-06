@@ -1,6 +1,9 @@
 # Misc Scripts
 
 #### check-set-speed.sh - Used to set the speed of Acorns and FK33's for SQRL miner. 
+   * I run this on mmpOS from the /etc/rc.local with this command:
+         
+         screen -mDSL 'ssc' /home/miner/check-set-speed.sh &
 
 #### mwgrinmanual.py - Used for manual download and upload of slate files from [MWGrinPool](https://www.mwgrinpool.com)
     * Requirements: python3 and requests module
