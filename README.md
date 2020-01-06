@@ -1,5 +1,7 @@
 # Misc Scripts
 
+#### check-set-speed.sh - Used to set the speed of Acorns and FK33's for SQRL miner. 
+
 #### mwgrinmanual.py - Used for manual download and upload of slate files from [MWGrinPool](https://www.mwgrinpool.com)
     * Requirements: python3 and requests module
     * Run: mwgrinmanaul.py -h for help:
