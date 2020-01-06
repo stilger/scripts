@@ -1,7 +1,7 @@
 # Misc Scripts
 
 #### check-set-speed.sh - Used to set the speed of Acorns and FK33's for SQRL miner. 
-   * I run this on mmpOS from the /etc/rc.local with this command:
+   * I run this on [mmpOS](https://app.mmpos.eu) from the /etc/rc.local with this command:
          
          screen -mDSL 'ssc' /home/miner/check-set-speed.sh &
    * You will need to modify the check_set_speed.sh script with your own settings:
