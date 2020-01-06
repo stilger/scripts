@@ -4,6 +4,10 @@
    * I run this on mmpOS from the /etc/rc.local with this command:
          
          screen -mDSL 'ssc' /home/miner/check-set-speed.sh &
+  * You will need to modify the check_set_speed.sh script with your own settings:
+
+
+Old Not Valid anymore:
 
 #### mwgrinmanual.py - Used for manual download and upload of slate files from [MWGrinPool](https://www.mwgrinpool.com)
     * Requirements: python3 and requests module
