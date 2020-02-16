@@ -1,5 +1,5 @@
 @echo off
-
+TITLE SQRLMiner
 mode con:cols=155 lines=2000
 
 :loop
