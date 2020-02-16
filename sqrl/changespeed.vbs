@@ -14,6 +14,6 @@ WshShell.SendKeys "1{+}{+}{+}{+}{+}{+}"
 Wscript.Sleep 1000
 'Choose device 2 and decrease speed by 1
 'WshShell.SendKeys "2-"
-'Wscript.Sleep 1500
+'Wscript.Sleep 1000
 'Choose device 12 and increase speed by 3
 'WshShell.SendKeys "9nnn{+}{+}{+}"
